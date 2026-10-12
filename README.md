@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=blessonpkoshy&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
@@ -45,8 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessonpkoshy&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=blessonpkoshy&icon=0&color=0" alt="Visitor Count">
-</p>
+</p> -->
