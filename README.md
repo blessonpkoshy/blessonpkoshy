@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **React, Node.js, and Express**  
+🔭 I’m currently working on **React, Node.js, and Angular**  
 🌱 I’m currently learning **Docker, Kubernetes, and System Design**  
 
 # 💻 Tech Stack:
